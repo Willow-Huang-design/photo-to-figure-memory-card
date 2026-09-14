@@ -1,0 +1,7 @@
+# Never commit source photographs or temporary image-generation files.
+*.jpg
+*.jpeg
+*.webp
+*.heic
+tmp/
+temp/
