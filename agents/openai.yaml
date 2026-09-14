@@ -1,0 +1,6 @@
+interface:
+  display_name: "人物速写与记忆卡"
+  short_description: "每张照片同时生成速写版与横向记忆贴纸卡"
+  default_prompt: "使用 $photo-to-figure-memory-card 为每张照片生成一张人物速写和一张最终记忆贴纸卡。"
+policy:
+  allow_implicit_invocation: true
